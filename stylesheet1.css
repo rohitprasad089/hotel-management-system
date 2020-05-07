@@ -1,0 +1,121 @@
+
+body{
+   
+    background-repeat: no-repeat;
+	position:relative;
+	min-height:100vh;
+	padding-bottom:80px;
+   
+}
+.navs{
+	font-size:20px;
+}
+.brand{
+	font-size:30px;
+	color:#f76d63;
+}
+.footera {
+    font-size:18px;
+    background-color:#212529;
+    color: white;
+	position:absolute;
+  bottom: 0;
+  width: 100%;
+  }
+  a{
+      color:whitesmoke;
+  }
+  .abc{
+    color:whitesmoke;
+    margin-top:200px;
+  }
+  .heading{
+      font-size:80px;
+      font-weight:bold;
+  }
+  .booking-heading{
+    font-family: Times New Roman;
+    font-size: 25px;
+    font-weight: bold;
+	padding-bottom:25px;
+	text-align: center;
+  }
+  .card-heading{
+    font-family: Times New Roman;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .card-heading2{
+    font-family: Brush Script MT;
+    padding:15px;
+    font-size: 25px;
+    text-align: center;
+  }
+  .stars{
+    font-size:20px;
+    color:#cd201f;
+    text-align: center;
+  }
+  .card-item{
+      padding:25px;
+      margin:20px 0px;
+      transition: .5s ease;
+    
+  }
+  .contact{
+	  font-size:20px;
+	  font-weight:200px;
+  }
+  .contactpara{
+	  font-size:20px;
+	  font-family: Comic Sans MS;
+	  margin:15px,0px;
+  }
+  .carousel-item>img{
+      height:300px;
+      width: 500px;
+  }
+
+  .card-item:hover{  
+    background-color:#e86f7f;  
+    opacity: 1.5;
+   
+    }
+    button:hover{  
+     color: yellow;  
+      opacity: 1.5;
+     
+      }
+	  .service-card{
+		background-color: #ba3657;  
+	  }
+	  .service-heading{
+		     font-family: Brush Script MT;
+    padding:15px;
+    font-size:42px;
+    color: #989a9c;
+    text-align: center;
+	  }
+	   .service-heading2{
+		      font-family: Comic Sans MS;
+    padding:15px;
+    font-size: 23px;
+    color:#ebf0b4;
+    text-align: center;
+		  
+	  }
+	  .buttons{
+		  padding:5px 30px;
+		  margin:15px;
+		font-size:22px;
+		border-radius:8px;
+		border: none;
+	  }
+	  .icons{
+		  color:#e6b983;
+	  }
+	  .card1{
+		  background-color:#eef0c5;
+	  }
+	  

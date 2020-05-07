@@ -1,0 +1,9 @@
+<?php
+session_start();
+session_destroy();
+unset($_SESSION['$username']);
+?>
+<script>
+alert("logout");
+window.location="login.php";
+</script>
